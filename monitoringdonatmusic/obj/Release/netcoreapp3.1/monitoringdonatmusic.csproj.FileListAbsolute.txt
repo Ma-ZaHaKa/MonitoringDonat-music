@@ -1,0 +1,16 @@
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\monitoringdonatmusic.exe
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\monitoringdonatmusic.deps.json
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\monitoringdonatmusic.runtimeconfig.json
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\monitoringdonatmusic.runtimeconfig.dev.json
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\monitoringdonatmusic.dll
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\monitoringdonatmusic.pdb
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.csprojAssemblyReference.cache
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.AssemblyInfoInputs.cache
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.AssemblyInfo.cs
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.csproj.CoreCompileInputs.cache
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.csproj.CopyComplete
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.dll
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.pdb
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.genruntimeconfig.cache
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\monitoringdonatmusic\monitoringdonatmusic\obj\Release\netcoreapp3.1\monitoringdonatmusic.GeneratedMSBuildEditorConfig.editorconfig
